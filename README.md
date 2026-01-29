@@ -1,0 +1,1 @@
+Pequeno dashboard financeiro em HTML/CSS/JS para controle de entradas, saídas, cofrinho e meta anual.
